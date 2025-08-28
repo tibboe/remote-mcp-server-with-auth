@@ -211,7 +211,7 @@ describe('Database Tools', () => {
       
       expect(result.content[0].type).toBe('text')
       expect(result.content[0].text).toContain('Write Operation Executed Successfully')
-      expect(result.content[0].text).toContain('coleam00')
+      expect(result.content[0].text).toContain('tibboe')
     })
 
     it('should execute read operations for privileged users', async () => {

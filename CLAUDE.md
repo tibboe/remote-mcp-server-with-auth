@@ -321,7 +321,7 @@ export function isWriteOperation(sql: string): boolean {
 
 ```typescript
 const ALLOWED_USERNAMES = new Set<string>([
-  'coleam00'  // Only these GitHub usernames can execute write operations
+  'tibboe'  // Only these GitHub usernames can execute write operations 
 ]);
 
 // Tool availability based on user permissions

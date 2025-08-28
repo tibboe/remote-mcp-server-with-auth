@@ -8,9 +8,9 @@ export const mockProps: Props = {
 }
 
 export const mockPrivilegedProps: Props = {
-  login: 'coleam00',
-  name: 'Cole Medin',
-  email: 'cole@example.com',
+  login: 'tibboe',
+  name: 'Thomas Ibbotson',
+  email: 'thomibbo@gmail.com',
   accessToken: 'privileged-access-token',
 }
 

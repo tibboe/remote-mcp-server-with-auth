@@ -29,7 +29,8 @@
 	"kv_namespaces": [
 		{
 			"binding": "OAUTH_KV",
-			"id": "06998ca39ffb4273a10747065041347b"
+			"id": "05b44d1eeef74f928453cc91353cfe69",
+			"preview_id": "local-dev-kv"
 		}
 	],
 	"ai": {
